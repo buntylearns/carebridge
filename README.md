@@ -1,6 +1,6 @@
 # CareBridge
 
-*(you: 2–3 sentences — what CareBridge is and where it's headed. A learning
+*(Carebridge is an opensource Healthcare Platform built for small Payers and Providers. It is built on modern tech stack with solid principles (more details to come). A learning
 project building a healthcare provider–payor platform, step by step, from
 first Java program to cloud-native microservices. Say it your way.)*
 
